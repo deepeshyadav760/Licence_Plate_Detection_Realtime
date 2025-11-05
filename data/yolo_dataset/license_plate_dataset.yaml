@@ -1,0 +1,5 @@
+names:
+- license_plate
+nc: 1
+train: C:\Users\deepe\Downloads\Lincence_Plate_Detection\data\yolo_dataset\images\train
+val: C:\Users\deepe\Downloads\Lincence_Plate_Detection\data\yolo_dataset\images\val

@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+pandas
+numpy
+requests
+Pillow
+tqdm
+PyYAML
+ultralytics
+scikit-learn
